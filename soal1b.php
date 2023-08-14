@@ -1,7 +1,7 @@
 <?php
 
-$input = 5;
-for ($a = $input; $a > 1; $a--) {
+$input = 8;
+for ($a = $input; $a > 0; $a--) {
     for ($i = 1; $i <= $a; $i++) {
         echo " &nbsp";
     }
